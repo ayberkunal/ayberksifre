@@ -5,7 +5,8 @@ starthook MF_WarehouseHeist
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
-192.0.129.76 - aa
+192.0.129.76 - godhatasame
+212.162.151.95 - godhatasame2
 
 endhook MF_WarehouseHeist
 
@@ -171,6 +172,8 @@ starthook MF_Purge
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
+192.0.129.76 - godhatasame
+212.162.151.95 - godhatasame2
 
 endhook MF_Purge
 
@@ -202,6 +205,8 @@ starthook MF_Boxing
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
+192.0.129.76 - godhatasame
+212.162.151.95 - godhatasame2
 
 endhook MF_Boxing
 
