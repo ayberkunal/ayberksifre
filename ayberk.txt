@@ -143,6 +143,7 @@ starthook MF_DnaTracker
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
+31.214.243.15 - Kuzey
 
 endhook MF_DnaTracker
 
