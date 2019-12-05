@@ -259,6 +259,7 @@ starthook MF_LockPicking
 31.214.243.15 - Arthur.
 109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
+109.230.238.112 - test
 
 endhook MF_LockPicking
 
