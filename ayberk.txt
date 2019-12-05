@@ -8,7 +8,7 @@ starthook MF_WarehouseHeist
 192.0.129.76 - godhatasame
 212.162.151.95 - godhatasame2
 149.56.243.180 - godhatasame3
-109.230.238.112 - Scarehow Test
+109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
 
 endhook MF_WarehouseHeist
@@ -30,7 +30,7 @@ starthook MF_Housing
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
-109.230.238.112 - Scarehow Test
+109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
 
 endhook MF_Housing
@@ -42,7 +42,7 @@ starthook mf_furnicatalogue
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
-109.230.238.112 - Scarehow Test
+109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
 
 endhook mf_furnicatalogue
@@ -54,7 +54,7 @@ starthook MF_PropertyRaid
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
-109.230.238.112 - Scarehow Test
+109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
 
 
@@ -153,7 +153,7 @@ starthook MF_DnaTracker
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
 31.214.243.15 - Kuzey
-109.230.238.112 - Scarehow Test
+109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
 
 endhook MF_DnaTracker
@@ -232,7 +232,7 @@ starthook MF_VehSales
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
-109.230.238.112 - Scarehow Test
+109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
 
 endhook MF_VehSales
@@ -244,7 +244,7 @@ starthook MF_SafeCracker
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
-109.230.238.112 - Scarehow Test
+109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
 
 endhook MF_SafeCracker
@@ -257,7 +257,7 @@ starthook MF_LockPicking
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
 31.214.243.15 - Arthur.
-109.230.238.112 - Scarehow Test
+109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
 
 endhook MF_LockPicking
@@ -269,7 +269,7 @@ starthook MF_Fleeca
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
-109.230.238.112 - Scarehow Test
+109.230.238.168 - Scarehow Test
 176.223.143.185 - Scarehow Main
 
 endhook MF_Fleeca
