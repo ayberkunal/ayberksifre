@@ -8,6 +8,7 @@ starthook MF_WarehouseHeist
 192.0.129.76 - godhatasame
 212.162.151.95 - godhatasame2
 149.56.243.180 - godhatasame3
+109.230.238.112 - Scarehow
 
 endhook MF_WarehouseHeist
 
