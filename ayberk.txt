@@ -9,7 +9,7 @@ starthook MF_WarehouseHeist
 212.162.151.95 - godhatasame2
 149.56.243.180 - godhatasame3
 109.230.238.168 - Scarehow Test
-176.223.143.185 - Scarehow Main
+164.68.119.217 - Scarehow Main
 
 endhook MF_WarehouseHeist
 
@@ -31,7 +31,7 @@ starthook MF_Housing
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
 109.230.238.168 - Scarehow Test
-176.223.143.185 - Scarehow Main
+164.68.119.217 - Scarehow Main
 
 endhook MF_Housing
 
@@ -43,7 +43,7 @@ starthook mf_furnicatalogue
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
 109.230.238.168 - Scarehow Test
-176.223.143.185 - Scarehow Main
+164.68.119.217 - Scarehow Main
 
 endhook mf_furnicatalogue
 
@@ -55,7 +55,7 @@ starthook MF_PropertyRaid
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
 109.230.238.168 - Scarehow Test
-176.223.143.185 - Scarehow Main
+164.68.119.217 - Scarehow Main
 
 
 endhook MF_PropertyRaid
@@ -233,7 +233,7 @@ starthook MF_VehSales
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
 109.230.238.168 - Scarehow Test
-176.223.143.185 - Scarehow Main
+164.68.119.217 - Scarehow Main
 
 endhook MF_VehSales
 
@@ -245,7 +245,7 @@ starthook MF_SafeCracker
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
 109.230.238.168 - Scarehow Test
-176.223.143.185 - Scarehow Main
+164.68.119.217 - Scarehow Main
 
 endhook MF_SafeCracker
 
@@ -258,7 +258,7 @@ starthook MF_LockPicking
 139.99.125.2 - Meh96
 31.214.243.15 - Arthur.
 109.230.238.168 - Scarehow Test
-176.223.143.185 - Scarehow Main
+164.68.119.217 - Scarehow Main
 109.230.238.112 - test
 
 endhook MF_LockPicking
@@ -271,7 +271,7 @@ starthook MF_Fleeca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
 109.230.238.168 - Scarehow Test
-176.223.143.185 - Scarehow Main
+164.68.119.217 - Scarehow Main
 
 endhook MF_Fleeca
 
