@@ -56,6 +56,8 @@ starthook MF_PropertyRaid
 139.99.125.2 - Meh96
 109.230.238.168 - Scarehow Test
 164.68.119.217 - Scarehow Main
+109.230.238.112 - test
+
 
 
 endhook MF_PropertyRaid
@@ -175,6 +177,9 @@ starthook MF_PlayerSafes
 185.126.178.103 - Vanesca
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
+109.230.238.168 - Scarehow Test
+164.68.119.217 - Scarehow Main
+109.230.238.112 - test
 
 endhook MF_PlayerSafes
 
@@ -246,6 +251,7 @@ starthook MF_SafeCracker
 139.99.125.2 - Meh96
 109.230.238.168 - Scarehow Test
 164.68.119.217 - Scarehow Main
+109.230.238.112 - test
 
 endhook MF_SafeCracker
 
