@@ -13,6 +13,13 @@ starthook MF_WarehouseHeist
 
 endhook MF_WarehouseHeist
 
+starthook MF_VehSales
+
+185.91.116.49 - Vanesca
+
+
+endhook MF_VehSales
+
 ------
 
 starthook mf_crafting
