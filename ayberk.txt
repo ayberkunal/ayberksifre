@@ -272,7 +272,7 @@ starthook MF_LockPicking
 54.36.75.114 - Evolution
 139.99.125.2 - Meh96
 31.214.243.15 - Arthur.
-109.230.238.168 - Scarehow Test
+78.168.32.234 - Scarehow Test
 164.68.119.217 - Scarehow Main
 109.230.238.112 - test
 
